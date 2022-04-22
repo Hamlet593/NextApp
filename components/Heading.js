@@ -1,6 +1,6 @@
-const Heading = ({tag, text}) => {
+const Heading = ({ tag, text }) => {
     const Tag = tag || 'h1';
-    return <Tag>{text}</Tag>;
-}
-
-export default Heading;
+    return <Tag>{text}</Tag>
+  }
+  
+  export default Heading;
