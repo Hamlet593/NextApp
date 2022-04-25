@@ -5,7 +5,7 @@ import Head from "next/head";
 const Home = () => (
   <div className={styles.wrapper}>
         <Head>
-            <title>Posts</title>
+            <title>Main Page</title>
         </Head>
       <Heading text='Next JS Application'/>
   </div>
